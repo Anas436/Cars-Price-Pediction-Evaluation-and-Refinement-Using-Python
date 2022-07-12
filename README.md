@@ -2,7 +2,7 @@
 
 
 
-Every Data Scientist and Data Analyst need to perform any model evaluation and refinement. Because it is provide your model accuracy which provide more confident with your own model. If you do not perform these types of actions otherwise you could not be able to know about your model whether is how much accurate or not. 
+<b>Every Data Scientist and Data Analyst need to perform any model evaluation and refinement. Because it is provide your model accuracy which provide more confident with your own model. If you do not perform these types of actions otherwise you could not be able to know about your model whether is how much accurate or not.</b>
 
 
 ## After completing this lab you will be able to:
